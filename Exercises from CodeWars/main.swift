@@ -7,5 +7,15 @@
 
 import Foundation
 
-print("Hello, World!")
+// EXERCISE #1
 
+print(descendingOrder(num: "12345")) // -> 54321
+
+// EXERCISE #2
+
+print(squareNumbers(num: 25.0)) // -> true
+print(squareNumbers(num: 24.0)) // -> false
+
+// EXERCISE #3
+
+print(sumOfTwoSmallestNumbersInArray(start: [10, 343445353, 3453445, 3453545353453]))
