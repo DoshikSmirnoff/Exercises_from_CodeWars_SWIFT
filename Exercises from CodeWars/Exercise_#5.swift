@@ -24,3 +24,5 @@ func myFriends(names: [String]) -> [String] {
     
     return myFriendsNames
 }
+
+
